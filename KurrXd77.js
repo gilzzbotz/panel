@@ -104,7 +104,7 @@ const sewa = JSON.parse(fs.readFileSync('./database/sewa.json'));
 // UCAPAN WAKTU ( KurrXd||77+)
 const time = moment.tz('Asia/Jakarta').format('DD/MM HH:mm:ss')
 const ucap = moment(Date.now()).tz('Asia/Jakarta').locale('id').format('a')
-const qris = 'https://telegra.ph/file/a12c56da5d940cb4a703d.jpg'
+const qris = 'https://telegra.ph/file/54949c6e4c6c0d954d316.jpg'
 const faxc = 'https://telegra.ph/file/7ebc6b629a069790e811b.jpg'
 // TANGGAL ( KurrXd||77+ )
 var buln = ['/01/', '/02/', '/03/', '/04/', '/05/', '/06/', '/07/', '/08/', '/09/', '/10/', '/11/', '/12/'];
